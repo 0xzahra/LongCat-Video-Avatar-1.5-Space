@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.gradio/
+weights/
+_cache/
+/tmp/
+longcat_video/
+assets/avatar/single/
+*.mp4
+*.safetensors
+.env
+.bootstrap_done
